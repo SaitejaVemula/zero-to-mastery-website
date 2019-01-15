@@ -120,10 +120,10 @@ When adding styles try to ensure the following:
 .langs img {
   padding:0 45px;
   max-width: 25%;
-  -moz-transition: all .5s linear;
-  -webkit-transition: all .5s linear;
-  -o-transition: all .5s linear;
-  transition: all .5s linear;
+  -moz-transition: all .2s linear;
+  -webkit-transition: all .2s linear;
+  -o-transition: all .2s linear;
+  transition: all .2s linear;
 }
 
 @media (min-width: 990px){
